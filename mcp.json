@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "secfeed": {
+      "url": "https://secfeedapi.com/mcp",
+      "headers": {
+        "Authorization": "Bearer ${env:SECFEED_API_KEY}"
+      }
+    }
+  }
+}
