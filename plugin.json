@@ -1,0 +1,10 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "secfeed",
+  "version": "1.0.0",
+  "description": "SEC EDGAR data for AI agents: filings, Form 4 insider trades, 13F holdings, XBRL financial statements, 8-K events and proxy data as JSON.",
+  "author": { "name": "SecFeed", "email": "support@secfeedapi.com", "url": "https://secfeedapi.com" },
+  "homepage": "https://secfeedapi.com/mcp/",
+  "repository": "https://github.com/secfeedapi/secfeed-mcp",
+  "keywords": ["sec", "edgar", "finance", "insider-trading", "13f", "xbrl", "financial-statements", "mcp"]
+}
